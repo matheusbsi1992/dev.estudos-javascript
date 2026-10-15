@@ -519,7 +519,7 @@ Esses conceitos são fundamentais para automação de testes com JavaScript e fe
 - **REST APIs**
 - **Automação de testes E2E**
 
-Por exemplo, o conhecimento de `async/await`, funções, arrays e objetos é constantemente utilizado na construção de testes automatizados:
+E.g.,, o conhecimento de `async/await`, funções e arrays é/foi constantemente utilizado na construção de teste automatizado para a vinculação de um componente table com as características acometidas de profissionais, em um arquivo (.xlsx) correspondente ao site do CNES:
 
 ```javascript
 import { test, expect } from '@playwright/test';
